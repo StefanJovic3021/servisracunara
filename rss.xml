@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Servis računara index</title>
+  <link>https://stefanjovic3021.github.io/servisracunara/index.html</link>
+  <description>Početna strana servisa računara</description>
+  <item>
+    <title>Zakazivanje</title>
+    <link>https://stefanjovic3021.github.io/servisracunara/index.html#zakazi</link>
+    <description>Prečica do forme gde se može prijaviti računar za popravku</description>
+  </item>
+  <item>
+    <title>Cenovnik</title>
+    <link>https://stefanjovic3021.github.io/servisracunara/cenovnik.html#cenovnikUsluga</link>
+    <description>Pogledaj kretanje i promene cena naših usluga</description>
+  </item>
+  <item>
+    <title>Galerija</title>
+    <link>https://stefanjovic3021.github.io/servisracunara/galerija.html</link>
+    <description>Galerija slika</description>
+  </item>
+  <item>
+    <title>O autoru sajta</title>
+    <link>https://stefanjovic3021.github.io/servisracunara/oautoru.html</link>
+    <description>Saznaj nešto više o autoru ovog sajta</description>
+  </item>
+  
+</channel>
+
+</rss>
